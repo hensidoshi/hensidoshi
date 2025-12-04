@@ -57,7 +57,7 @@
 
 # 📊 GitHub Stats
 
-![Hensi's GitHub stats](https://github-readme-stats.vercel.app/api?username=hensidoshi&show_icons=true&theme=radical&v=12042025)
+[![Hensi's GitHub stats](https://github-readme-stats.vercel.app/api?username=hensidoshi)](https://github.com/hensidoshi/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hensidoshi&layout=compact&theme=radical&v=12042025)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hensidoshi&theme=radical)
 
